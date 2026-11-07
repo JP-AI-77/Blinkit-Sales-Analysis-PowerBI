@@ -105,3 +105,7 @@ It provides hands-on experience with data visualization, KPI analysis, report de
 **File Format:** `.pbix`
 
 **Status:** Completed
+
+## 📸 Dashboard Preview
+
+![Blinkit Sales Analysis Dashboard](dashboard-overview.png)
