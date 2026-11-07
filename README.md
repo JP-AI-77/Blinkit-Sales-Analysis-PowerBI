@@ -62,7 +62,7 @@ Provides a comparative view of sales across outlet types.
 - What is the contribution of different outlet sizes?
 - How does sales performance vary across outlet types?
 - What patterns can be observed in outlet establishment trends?
-- 
+  
 ## 📸 Dashboard Preview
 
 ![Blinkit Sales Analysis Dashboard](./dashboard-overview.png)
