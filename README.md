@@ -107,5 +107,6 @@ It provides hands-on experience with data visualization, KPI analysis, report de
 **Status:** Completed
 
 ## 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard](dashboard-overview.png)
+![Blinkit Dashboard](Screenshot%202026-08-14%20172102.png)
